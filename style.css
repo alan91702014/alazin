@@ -10,13 +10,16 @@
     align-items: center;
     padding: 24px 0;
 }
-    .cabecalho-imagem{
-        width: 20%;
-    }
+.cabecalho-imagem{
+    width: 20%;
+}
 
-    .cabecalho-lista-item{
-        display: inline-block;
-        margin: 0 16px;
-        font-size: 40px;
-    }
-         
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 55px;
+}
+.escola-imagem{
+    width: 25%;
+}
+
